@@ -1,0 +1,26 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "version": "1.0.0",
+      "title": "Quiz API",
+      "description": "Make a Request to Quiz DB to fetch quiz questions and answers",
+      "license": {
+        "name": "Umair Tariq",
+        "email": "tariqumair5@gmail.com",
+        "url": ""
+      }
+    },
+    "host": "localhost:3000",
+    "basePath": "/",
+    "tags": [
+      {
+        "name": "Users",
+        "description": "API for users in the system"
+      }
+    ],
+    "schemes": ["http"],
+    "consumes": ["application/json"],
+    "produces": ["application/json"]
+  }
+
+  
